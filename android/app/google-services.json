@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "991973302992",
+    "project_id": "gestionhopitalapp",
+    "storage_bucket": "gestionhopitalapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991973302992:android:615d22a9249c6c2cb074d5",
+        "android_client_info": {
+          "package_name": "com.example.gestion_produit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991973302992-om7obn8823ifeqlmkhd2rupm2v507rd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gestion_produit",
+            "certificate_hash": "509f8c138a5d92712475dc65f1e1e60cd63107a8"
+          }
+        },
+        {
+          "client_id": "991973302992-t9vjtmmn76osnmsur36i4251i3op8urp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWHPW7ZOPYfoPWNyeun4VI7wXct8gdTgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991973302992-t9vjtmmn76osnmsur36i4251i3op8urp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991973302992-fql9ravvvvr7248d5rifq506a098lvdu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gestionProduit"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
